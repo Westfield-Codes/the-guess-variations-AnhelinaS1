@@ -1,4 +1,3 @@
-/* Simple Guess Program */
 
 // create global variable guess, set to 0
 
