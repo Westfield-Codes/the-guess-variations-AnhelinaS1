@@ -12,7 +12,7 @@ let guess = 0;
   // loop while guess is not equal to answer
 while(guess!=answer);{
     // set guess equal to asking user to "Guess a number, 1-100"
-guess = ("Guess a number, 1-100");
+guess = prompt("Guess a number, 1-100");
     // if guess equals answer display "Correct!" 
   if (guess == answer) alert("Correct!");
     // or if guess is greater than answer display "Too high!" 
