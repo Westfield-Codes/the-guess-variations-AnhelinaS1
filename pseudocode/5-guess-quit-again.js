@@ -1,7 +1,7 @@
 /* Guess Game Program */
 
 // define function newGame
-
+function
   // create a Boolean variable for again, set to true
 
   // run the guessGame function
